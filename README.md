@@ -35,7 +35,7 @@ A regression analysis shows a clear linear trend: more rooms generally equal hig
 ### 3. The "River Effect" (Statistical Significance)
 Our T-Test confirms that proximity to the Charles River is statistically significant ($p < 0.05$). The boxplot below highlights the higher median value for "River-bound" properties.
 
-![River Impact Boxplot](Figure_2.png)
+![River Impact Boxplot](Figure_4.png)
 
 ---
 
