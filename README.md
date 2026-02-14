@@ -47,7 +47,6 @@ Our T-Test confirms that proximity to the Charles River is statistically signifi
 | **Conclusion** | Proximity to River | **Strong Impact on Price** |
 
 ---
-
 ## 🚀 How to Run
 
 1. **Clone the repository:**
