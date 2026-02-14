@@ -49,8 +49,10 @@ Our T-Test confirms that proximity to the Charles River is statistically signifi
 ---
 
 ## 🚀 How to Run
-1. Clone the repository:
-   ```bashgit clone https://github.com/yourusername/boston-housing-analysis.git
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/AmithNaglapura/Boston-House-Analysis.git](https://github.com/AmithNaglapura/Boston-House-Analysis.git)
 
 
 
