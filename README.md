@@ -25,17 +25,17 @@ The goal was to identify the true drivers of property value (`MEDV`) in Boston. 
 ### 1. The Value Drivers (Correlation Matrix)
 By using a heatmap, we can clearly see the strong positive correlation between rooms and price, and the heavy inverse relationship with lower-status population density.
 
-![Correlation Heatmap](Screenshot 2026-02-10 at 10.31.10 PM.jpg)
+![Correlation Heatmap](heatmap.jpg)
 
 ### 2. Room Count vs. Market Value
 A regression analysis shows a clear linear trend: more rooms generally equal higher value, though we see interesting "caps" at the \$50k mark.
 
-![Regression Plot](Screenshot 2026-02-10 at 10.31.19 PM.jpg)
+![Regression Plot](regression.jpg)
 
 ### 3. The "River Effect" (Statistical Significance)
 Our T-Test confirms that proximity to the Charles River is statistically significant ($p < 0.05$). The boxplot below highlights the higher median value for "River-bound" properties.
 
-![River Impact Boxplot](Screenshot 2026-02-10 at 10.31.28 PM.jpg)
+![River Impact Boxplot](boxplot.jpg)
 
 ---
 
