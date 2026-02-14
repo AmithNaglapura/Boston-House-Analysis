@@ -51,3 +51,15 @@ Our T-Test confirms that proximity to the Charles River is statistically signifi
 ## 🚀 How to Run
 1. Clone the repository:
    ```bashgit clone https://github.com/yourusername/boston-housing-analysis.git
+
+
+
+   ---
+
+## 📈 Conclusion & Future Work
+This analysis confirms that while environmental factors like the Charles River provide a premium, structural features (number of rooms) and socio-economic context remain the most powerful predictors of Boston real estate prices.
+
+**Next Steps for this Project:**
+* **Machine Learning:** Implement a Random Forest Regressor to see if non-linear models improve price prediction.
+* **Feature Selection:** Use Lasso Regression to programmatically identify and remove redundant features.
+* **External Data:** Integrate modern 2026 interest rate data to see how market dynamics have shifted since this original study.
