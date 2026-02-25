@@ -1,0 +1,11 @@
+name: boston-analysis
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - pandas
+  - numpy
+  - seaborn
+  - matplotlib
+  - scikit-learn
+  - scipy
